@@ -1,1 +1,0 @@
-/usr/bin/cc -rdynamic CMakeFiles/xash3d.dir/xash.c.o -o xash3d  -Wl,-Bstatic -lSDL2main -Wl,-Bdynamic -lSDL2 -lpthread -ldl 
