@@ -4,7 +4,7 @@ Half-Life SDK for Xash3D & GoldSource with some fixes.
 
 ## How to build
 
-	python3 waf configure -T release --enable-goldsrc-support
+	python3 waf configure build -T release --enable-goldsrc-support
 
 ### CMake as most universal way
 
